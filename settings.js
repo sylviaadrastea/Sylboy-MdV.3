@@ -14,18 +14,18 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Masukin Apikey', // Ambil apikey di zenz biar fitur yg make api work
+	'https://zenzapi.xyz': '1ffe5ec4414fd000', // Ambil apikey di zenz biar fitur yg make api work
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['6282116393694','6285798070794','6281292682484']
+global.premium = ['6285793961383']
+global.ownernomer = '6281292682484'
+global.ownername = 'sylilyonna'
+global.botname = 'Sylbot-Md'
+global.footer = 'sylilyonna'
+global.ig = 'https://instagram.com/reinaadrastea_'
+global.email = 'sylviazevannya@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
